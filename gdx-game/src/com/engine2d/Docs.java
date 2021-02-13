@@ -1,5 +1,0 @@
-/*
-	Engine2d Documentation
-	
-	
-*/
