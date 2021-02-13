@@ -1,7 +1,0 @@
-#!/bin/bash
-
-git add .
-git commit -m "full project update"
-git status
-echo "Pushing updates to git..."
-git push origin master
