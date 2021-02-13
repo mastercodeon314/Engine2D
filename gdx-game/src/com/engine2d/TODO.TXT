@@ -1,0 +1,30 @@
+Engine to do list
+	
+1. Build the sound system
+	*Will be really easy to make
+	*Need to write a seperate thread
+	to buffer over all the samples
+	
+2. Build realtime sound generator (for effects and live music)
+3. Build mesh editor
+4. Build and improve the UI system.
+	A. Add more controls
+	B. Fix button Label placment
+		1. Correct button auto size function
+	
+	C. Fix the unfilled drawing code
+	
+	
+
+FIXES
+1. Setup world coordinate system 
+	make sure to include converts
+	for screen to world, and world to screen
+	
+2. Setup the movement system for
+	for all game objects
+	
+3. Setup sprites
+4. Setup scene camera
+5. Clean code
+6. Setup list debug output ui

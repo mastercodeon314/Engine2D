@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "# Engine2D" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/mastercodeon314/Engine2D.git
+git push -u origin master
